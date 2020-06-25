@@ -13,10 +13,10 @@
 #endif
 
 // If fast or safe accessor should be used
-#cmakedefine USE_MATRIX_FAST_ACCESSOR
+//#define USE_MATRIX_FAST_ACCESSOR
 
 // Write down the version of the ezc3d
-#define EZC3D_VERSION "@PROJECT_VERSION_MAJOR@.@PROJECT_VERSION_MINOR@.@PROJECT_VERSION_PATCH@"
+#define EZC3D_VERSION "1.3.3"
 #define EZC3D_CONTACT "pariterre@hotmail.com"
 
 #endif // EZC3D_CONFIG_H
