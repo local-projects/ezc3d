@@ -7,8 +7,8 @@
 /// \date October 17th, 2018
 ///
 
-#include "Parameters.h"
-#include "Header.h"
+#include "ezc3dParameters.h"
+#include "ezc3dHeader.h"
 
 ezc3d::ParametersNS::Parameters::Parameters():
     _parametersStart(1),

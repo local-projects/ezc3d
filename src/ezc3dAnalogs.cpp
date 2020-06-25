@@ -7,7 +7,7 @@
 /// \date October 17th, 2018
 ///
 
-#include "Analogs.h"
+#include "ezc3dAnalogs.h"
 
 ezc3d::DataNS::AnalogsNS::Analogs::Analogs() {
 }

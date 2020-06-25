@@ -7,7 +7,7 @@
 /// \date October 17th, 2018
 ///
 
-#include "math/Vector6d.h"
+#include "math/ezc3dVector6d.h"
 
 ezc3d::Vector6d::Vector6d() :
     ezc3d::Matrix(6, 1)

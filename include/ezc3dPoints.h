@@ -8,7 +8,7 @@
 /// \date October 17th, 2018
 ///
 
-#include "Point.h"
+#include "ezc3dPoint.h"
 
 ///
 /// \brief Points holder for C3D data 3D points data

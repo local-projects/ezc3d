@@ -7,7 +7,7 @@
 /// \date October 17th, 2018
 ///
 
-#include "Channel.h"
+#include "ezc3dChannel.h"
 
 ezc3d::DataNS::AnalogsNS::Channel::Channel() {
 

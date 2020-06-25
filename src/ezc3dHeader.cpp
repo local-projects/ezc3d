@@ -7,8 +7,8 @@
 /// \date October 17th, 2018
 ///
 
-#include "Header.h"
-#include "Parameters.h"
+#include "ezc3dHeader.h"
+#include "ezc3dParameters.h"
 
 ezc3d::Header::Header():
     _nbOfZerosBeforeHeader(0),

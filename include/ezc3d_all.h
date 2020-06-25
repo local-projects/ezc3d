@@ -10,10 +10,10 @@
 
 
 #include "math/ezc3dMath.h"
-#include "Header.h"
-#include "Parameters.h"
-#include "Data.h"
+#include "ezc3dHeader.h"
+#include "ezc3dParameters.h"
+#include "ezc3dData.h"
 
-#include "modules/ForcePlatforms.h"
+#include "modules/ezc3dForcePlatforms.h"
 
 #endif

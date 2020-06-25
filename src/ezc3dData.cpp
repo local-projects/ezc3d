@@ -7,9 +7,9 @@
 /// \date October 17th, 2018
 ///
 
-#include "Data.h"
-#include "Header.h"
-#include "Parameters.h"
+#include "ezc3dData.h"
+#include "ezc3dHeader.h"
+#include "ezc3dParameters.h"
 
 ezc3d::DataNS::Data::Data() {
 }

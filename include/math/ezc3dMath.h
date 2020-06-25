@@ -8,10 +8,10 @@
 /// \date March 25th, 2020
 ///
 
-#include "math/Matrix.h"
-#include "math/Matrix33.h"
-#include "math/Matrix66.h"
-#include "math/Vector3d.h"
-#include "math/Vector6d.h"
+#include "math/ezc3dMatrix.h"
+#include "math/ezc3dMatrix33.h"
+#include "math/ezc3dMatrix66.h"
+#include "math/ezc3dVector3d.h"
+#include "math/ezc3dVector6d.h"
 
 #endif

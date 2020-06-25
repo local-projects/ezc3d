@@ -7,8 +7,8 @@
 /// \date October 17th, 2018
 ///
 
-#include "Group.h"
-#include "Parameters.h"
+#include "ezc3dGroup.h"
+#include "ezc3dParameters.h"
 
 ezc3d::ParametersNS::GroupNS::Group::Group(
         const std::string &name,

@@ -8,7 +8,7 @@
 /// \date October 17th, 2018
 ///
 
-#include "Group.h"
+#include "ezc3dGroup.h"
 
 ///
 /// \brief Group holder of C3D parameters

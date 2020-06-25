@@ -7,7 +7,7 @@
 /// \date October 17th, 2018
 ///
 
-#include "Subframe.h"
+#include "ezc3dSubframe.h"
 
 ezc3d::DataNS::AnalogsNS::SubFrame::SubFrame() {
 

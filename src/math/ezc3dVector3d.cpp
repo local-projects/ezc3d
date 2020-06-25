@@ -7,7 +7,7 @@
 /// \date October 17th, 2018
 ///
 
-#include "math/Vector3d.h"
+#include "math/ezc3dVector3d.h"
 
 ezc3d::Vector3d::Vector3d() :
     ezc3d::Matrix(3, 1)

@@ -7,7 +7,7 @@
 /// \date October 17th, 2018
 ///
 
-#include "Frame.h"
+#include "ezc3dFrame.h"
 
 ezc3d::DataNS::Frame::Frame() {
     _points = std::shared_ptr<ezc3d::DataNS::Points3dNS::Points>(

@@ -7,8 +7,8 @@
 /// \date October 17th, 2018
 ///
 
-#include "Parameter.h"
-#include "Parameters.h"
+#include "ezc3dParameter.h"
+#include "ezc3dParameters.h"
 
 ezc3d::ParametersNS::GroupNS::Parameter::Parameter(
         const std::string &name,

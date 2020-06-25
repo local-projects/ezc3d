@@ -10,9 +10,9 @@
 
 #include "ezc3d.h"
 
-#include "math/Matrix33.h"
-#include "math/Matrix66.h"
-#include "math/Vector3d.h"
+#include "math/ezc3dMatrix33.h"
+#include "math/ezc3dMatrix66.h"
+#include "math/ezc3dVector3d.h"
 
 ///
 /// \brief Force Platform analyse

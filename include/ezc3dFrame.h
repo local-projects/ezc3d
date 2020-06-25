@@ -8,8 +8,8 @@
 /// \date October 17th, 2018
 ///
 
-#include "Points.h"
-#include "Analogs.h"
+#include "ezc3dPoints.h"
+#include "ezc3dAnalogs.h"
 
 ///
 /// \brief Frame holder for C3D data

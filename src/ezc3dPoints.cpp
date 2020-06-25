@@ -7,7 +7,7 @@
 /// \date October 17th, 2018
 ///
 
-#include "Points.h"
+#include "ezc3dPoints.h"
 
 // Point3d data
 ezc3d::DataNS::Points3dNS::Points::Points() {

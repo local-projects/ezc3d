@@ -8,9 +8,9 @@
 ///
 
 #include "ezc3d.h"
-#include "Header.h"
-#include "Data.h"
-#include "Parameters.h"
+#include "ezc3dHeader.h"
+#include "ezc3dData.h"
+#include "ezc3dParameters.h"
 
 
 void ezc3d::removeTrailingSpaces(
